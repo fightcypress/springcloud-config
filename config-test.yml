@@ -1,6 +1,6 @@
 CRM:
   LOG:
-    LEVEL: debug
+    LEVEL: info
 CNPD:
   MAIL:
     NAME: CNPD@CVTE.COM
