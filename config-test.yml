@@ -1,2 +1,6 @@
-config:
-  info: "master branch,springcloud-config/config-test.yml version=22" 
+CRM:
+  LOG:
+    LEVEL: debug
+CNPD:
+  MAIL:
+    NAME: CNPD@CVTE.COM
